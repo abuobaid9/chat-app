@@ -8,6 +8,18 @@ Realtime chat app with websockets using Node.js, Express and Socket.io with Vani
 
 ![UML](./img/uml.jpg)
 
+## Team
+
+**WISTA Team :-**
+
+1. Ibraheem Hammoudeh (Team Leader)
+2. Wajeeh Essam
+3. Samah Alsatary
+4. Tasneem Maq
+5. Anas Abuobaid
+
+![team](./img/wista.jpeg)
+
 ## ***Usage***
 
 - npm install
