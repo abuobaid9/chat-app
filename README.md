@@ -8,7 +8,7 @@ Realtime chat app with websockets using Node.js, Express and Socket.io with Vani
 
 ![UML](./img/uml.jpg)
 
-## Team
+/*## Team
 
 **WISTA Team :-**
 
@@ -19,7 +19,7 @@ Realtime chat app with websockets using Node.js, Express and Socket.io with Vani
 5. Anas Abuobaid
 
 ![team](./img/wista.jpeg)
-
+*/
 ## ***Usage***
 
 - npm install
