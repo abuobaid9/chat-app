@@ -3,6 +3,7 @@
 Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI.
 
 - Github Link : [Click here](https://github.com/abuobaid9/chat-app#readme)
+- Heroku Link : [Click here](https://anas-chat.herokuapp.com/)
 
 ## ***UML Diagram***
 
